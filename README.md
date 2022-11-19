@@ -8,6 +8,6 @@ The rules of the game are the following:
 - You lose the game once the screen is full of unmatched blocks.  
 
 #### How to run the program:
-- Make sure you have Processing 3 installed.
+- Make sure you have Processing3 installed.
 - Open the source code, which will take you to the Processing 3 software.
 - Click on the play button to start the game.
